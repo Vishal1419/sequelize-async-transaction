@@ -1,0 +1,1 @@
+# node-restify-sequelize-example
